@@ -19,8 +19,8 @@ Files in Repository
 
 To run this project, you will need the following libraries:
 
-pandas
-numpy
-nltk (Natural Language Toolkit)
-scikit-learn
-matplotlib
+1. pandas
+2. numpy
+3. nltk (Natural Language Toolkit)
+4. scikit-learn
+5. matplotlib
